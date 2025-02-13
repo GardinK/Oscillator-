@@ -8,7 +8,7 @@
 	- sawtooth wave
 	- triangle wave
 
- -[] The ability to mix waves
+ -The ability to mix waves
 
 GUI
 
