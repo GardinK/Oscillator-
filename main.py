@@ -20,11 +20,6 @@ st.set_page_config(
     layout = 'wide', 
     initial_sidebar_state = 'auto'
     )
-
-left, mid, right = st.columns(3)
- 
-with mid:
-    st.title("Osc")
  
 with st.container():
     ampcolumn, wavcolumn, freqcolumn, phasecolumn = st.columns(4)
